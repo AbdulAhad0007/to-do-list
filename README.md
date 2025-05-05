@@ -1,12 +1,29 @@
-# React + Vite
+# To-Do List App
+A simple, responsive To-Do List app built with React and Vite. This app allows you to manage your daily tasks, add new ones, delete, and reorder them.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features
+Add tasks: Enter tasks and add them to the list.
 
-Currently, two official plugins are available:
+Reorder tasks: Move tasks up and down to reorder them.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Delete tasks: Remove completed or unnecessary tasks.
 
-## Expanding the ESLint configuration
+Responsive design: Works seamlessly on mobile and desktop devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Dark theme: Modern dark UI for a comfortable user experience.
+
+### Demo
+View the live demo on Vercel : https://todowave.vercel.app
+
+## Technologies Used
+React: A JavaScript library for building user interfaces.
+
+Vite: A fast, modern build tool for React apps.
+
+CSS: Styled for a clean and responsive layout.
+
+### Contributing
+Feel free to fork this repository, make changes, and submit a pull request if you'd like to contribute. If you encounter any bugs or have suggestions, open an issue and we’ll work together to improve the app.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
